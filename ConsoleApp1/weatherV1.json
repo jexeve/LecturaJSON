@@ -1,0 +1,77 @@
+{
+    "copyright": "Tutiempo Network, S.L.",
+    "use": "Se autoriza el uso de estos datos citando a https://www.tutiempo.net como fuente de los mismos.",
+    "information": {
+        "temperature": "ºC",
+        "wind": "km/h",
+        "humidity": "%",
+        "pressure": "hPa"
+    },
+    "web": "https://www.tutiempo.net",
+    "language": "es",
+    "locality": {
+        "name": "Madrid",
+        "url_weather_forecast_15_days": "https://www.tutiempo.net/madrid.html",
+        "url_hourly_forecast": "https://www.tutiempo.net/madrid.html?datos=por-horas",
+        "country": "España",
+        "url_country": "https://www.tutiempo.net/espana.html"
+    },
+    "day1": {
+        "date": "2019-11-6",
+        "temperature_max": 14,
+        "temperature_min": 8,
+        "icon": "7",
+        "text": "Cubierto",
+        "humidity": 56,
+        "wind": 21,
+        "wind_direction": "Oeste",
+        "icon_wind": "O",
+        "sunrise": "7:47",
+        "sunset": "18:09",
+        "moonrise": "15:42",
+        "moonset": "01:39",
+        "moon_phases_icon": "9"
+    },
+    "day2": {
+        "date": "2019-11-7",
+        "temperature_max": 12,
+        "temperature_min": 7,
+        "icon": "7",
+        "text": "Cubierto",
+        "humidity": 58,
+        "wind": 34,
+        "wind_direction": "Noroeste",
+        "icon_wind": "NO",
+        "sunrise": "7:49",
+        "sunset": "18:07",
+        "moonrise": "16:08",
+        "moonset": "02:37",
+        "moon_phases_icon": "10"
+    },
+    "hour_hour": {
+        "hour1": {
+            "date": "2019-11-6",
+            "hour_data": "11:00",
+            "temperature": 11,
+            "text": "Parcialmente nuboso",
+            "humidity": 52,
+            "pressure": 1018,
+            "icon": "4",
+            "wind": 10,
+            "wind_direction": "Noroeste",
+            "icon_wind": "NO"
+        },
+        "hour2": {
+            "date": "2019-11-6",
+            "hour_data": "12:00",
+            "temperature": 11,
+            "text": "Nubes dispersas",
+            "humidity": 45,
+            "pressure": 1012,
+            "icon": "2",
+            "wind": 28,
+            "wind_direction": "Noroeste",
+            "icon_wind": "NO"
+        }
+    }
+}
